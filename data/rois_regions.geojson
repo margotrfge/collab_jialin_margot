@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1239.699951171875,
+              1.464018702507019
+            ],
+            [
+              1257.92431640625,
+              1.464018702507019
+            ],
+            [
+              1257.92431640625,
+              127.42788696289062
+            ],
+            [
+              1239.699951171875,
+              127.42788696289062
+            ],
+            [
+              1239.699951171875,
+              1.464018702507019
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R1",
+        "roi_type": "PolygonOfInterest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1778.226806640625,
+              -2.0985524654388428
+            ],
+            [
+              1810.1009521484375,
+              -2.0985524654388428
+            ],
+            [
+              1810.1009521484375,
+              124.49951171875
+            ],
+            [
+              1778.226806640625,
+              124.49951171875
+            ],
+            [
+              1778.226806640625,
+              -2.0985524654388428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R2",
+        "roi_type": "PolygonOfInterest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1236.9801025390625,
+            138.37245178222656
+          ],
+          [
+            1813.24365234375,
+            136.13604736328125
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R1R2",
+        "roi_type": "LineOfInterest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            557.344482421875,
+            274.81976318359375
+          ],
+          [
+            2226.875,
+            268.0535888671875
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R3",
+        "roi_type": "LineOfInterest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            557.164794921875,
+            136.54000854492188
+          ],
+          [
+            1237.637939453125,
+            130.95973205566406
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R4",
+        "roi_type": "LineOfInterest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1812.4888916015625,
+            122.81394958496094
+          ],
+          [
+            2226.676513671875,
+            121.72633361816406
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R5",
+        "roi_type": "LineOfInterest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            771.7059326171875,
+            396.815673828125
+          ],
+          [
+            772.3815307617188,
+            -0.7739114165306091
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R6",
+        "roi_type": "LineOfInterest"
+      }
+    }
+  ]
+}
